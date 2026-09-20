@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "timezone": "+08:00",
+  "probe_before_fetch": true,
+  "self_open_id": "",
+  "chats": [
+    {
+      "name": "替换为项目群名关键词",
+      "chat_id": "",
+      "include_all_senders": false
+    }
+  ],
+  "keywords": []
+}
